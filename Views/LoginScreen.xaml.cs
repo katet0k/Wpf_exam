@@ -49,7 +49,7 @@ namespace Wpf_exam.Views
         }
     }
 
-    public partial class Login : Window
+    public partial class LoginScreen : Window
     {
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
@@ -84,4 +84,4 @@ namespace Wpf_exam.Views
             }
         }
     }
-    }
+}
